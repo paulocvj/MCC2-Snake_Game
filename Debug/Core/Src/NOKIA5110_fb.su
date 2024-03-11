@@ -1,0 +1,17 @@
+../Core/Src/NOKIA5110_fb.c:126:6:cmd_LCD	24	static
+../Core/Src/NOKIA5110_fb.c:147:6:data_LCD	24	static
+../Core/Src/NOKIA5110_fb.c:168:6:inic_LCD	8	static
+../Core/Src/NOKIA5110_fb.c:184:6:goto_XY	16	static
+../Core/Src/NOKIA5110_fb.c:193:6:escreve2fb	24	static
+../Core/Src/NOKIA5110_fb.c:201:6:imprime_LCD	16	static
+../Core/Src/NOKIA5110_fb.c:213:6:caractere_LCD	24	static
+../Core/Src/NOKIA5110_fb.c:229:6:string_LCD	16	static
+../Core/Src/NOKIA5110_fb.c:235:6:string_LCD_Nr	48	static
+../Core/Src/NOKIA5110_fb.c:267:6:limpa_LCD	16	static
+../Core/Src/NOKIA5110_fb.c:277:6:desenha_pixel	32	static
+../Core/Src/NOKIA5110_fb.c:297:6:desenha_linha	80	static
+../Core/Src/NOKIA5110_fb.c:376:6:desenha_circulo	48	static
+../Core/Src/NOKIA5110_fb.c:427:6:desenha_retangulo	48	static
+../Core/Src/NOKIA5110_fb.c:475:6:desenha_triangulo	40	static
+../Core/Src/NOKIA5110_fb.c:522:6:desenha_fig	56	static
+../Core/Src/NOKIA5110_fb.c:591:6:escreve_Nr_Peq	64	static

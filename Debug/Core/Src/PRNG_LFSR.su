@@ -1,0 +1,2 @@
+../Core/Src/PRNG_LFSR.c:9:6:init_LFSR	16	static
+../Core/Src/PRNG_LFSR.c:18:11:prng_LFSR	16	static

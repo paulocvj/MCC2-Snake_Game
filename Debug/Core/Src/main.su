@@ -1,0 +1,16 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/main.c:88:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:99:6:vTask_LCD_Print	16	static
+../Core/Src/main.c:109:6:vTask_Gera_Fruta	24	static
+../Core/Src/main.c:135:6:vTask_Aumenta_Ponto	24	static
+../Core/Src/main.c:148:6:vTask_Game_Over	24	static
+../Core/Src/main.c:175:6:vTask_Desloca_Snake_Player	48	static
+../Core/Src/main.c:291:6:vTask_Menu_Principal	32	static
+../Core/Src/main.c:350:5:main	16	static
+../Core/Src/main.c:435:6:SystemClock_Config	88	static
+../Core/Src/main.c:481:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:532:13:MX_DMA_Init	16	static
+../Core/Src/main.c:550:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:601:6:StartDefaultTask	16	static
+../Core/Src/main.c:620:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:637:6:Error_Handler	4	static,ignoring_inline_asm

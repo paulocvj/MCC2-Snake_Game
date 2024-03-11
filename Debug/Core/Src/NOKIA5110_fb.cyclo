@@ -1,0 +1,17 @@
+NOKIA5110_fb.c:126:6:cmd_LCD	3
+NOKIA5110_fb.c:147:6:data_LCD	3
+NOKIA5110_fb.c:168:6:inic_LCD	1
+NOKIA5110_fb.c:184:6:goto_XY	3
+NOKIA5110_fb.c:192:6:escreve2fb	2
+NOKIA5110_fb.c:200:6:imprime_LCD	2
+NOKIA5110_fb.c:212:6:caractere_LCD	2
+NOKIA5110_fb.c:228:6:string_LCD	2
+NOKIA5110_fb.c:234:6:string_LCD_Nr	5
+NOKIA5110_fb.c:266:6:limpa_LCD	2
+NOKIA5110_fb.c:276:6:desenha_pixel	4
+NOKIA5110_fb.c:296:6:desenha_linha	16
+NOKIA5110_fb.c:375:6:desenha_circulo	25
+NOKIA5110_fb.c:426:6:desenha_retangulo	4
+NOKIA5110_fb.c:474:6:desenha_triangulo	1
+NOKIA5110_fb.c:521:6:desenha_fig	17
+NOKIA5110_fb.c:590:6:escreve_Nr_Peq	11

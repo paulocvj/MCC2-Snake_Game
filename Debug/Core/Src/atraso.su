@@ -1,0 +1,3 @@
+../Core/Src/atraso.c:19:6:atraso_us	16	static,ignoring_inline_asm
+../Core/Src/atraso.c:29:7:atraso_ms	16	static,ignoring_inline_asm
+../Core/Src/atraso.c:40:6:atraso_loops	16	static,ignoring_inline_asm

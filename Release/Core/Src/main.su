@@ -1,0 +1,12 @@
+../Core/Src/main.c:99:6:vTask_LCD_Print	8	static
+../Core/Src/main.c:109:6:vTask_Gera_Fruta	24	static
+../Core/Src/main.c:135:6:vTask_Aumenta_Ponto	16	static
+../Core/Src/main.c:176:6:vTask_Desloca_Snake_Player	64	static
+../Core/Src/main.c:148:6:vTask_Game_Over	16	static,ignoring_inline_asm
+../Core/Src/main.c:288:6:vTask_Menu_Principal	32	static
+../Core/Src/main.c:88:6:HAL_ADC_ConvCpltCallback	0	static
+../Core/Src/main.c:424:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:339:5:main	56	static,ignoring_inline_asm
+../Core/Src/main.c:590:6:StartDefaultTask	8	static
+../Core/Src/main.c:609:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:626:6:Error_Handler	0	static,ignoring_inline_asm

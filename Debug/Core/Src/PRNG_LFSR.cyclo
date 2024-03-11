@@ -1,0 +1,2 @@
+PRNG_LFSR.c:9:6:init_LFSR	1
+PRNG_LFSR.c:18:11:prng_LFSR	3

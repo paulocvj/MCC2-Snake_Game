@@ -1,0 +1,16 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	1
+main.c:88:6:HAL_ADC_ConvCpltCallback	2
+main.c:99:6:vTask_LCD_Print	1
+main.c:109:6:vTask_Gera_Fruta	1
+main.c:125:6:vTask_Aumenta_Ponto	1
+main.c:138:6:vTask_Game_Over	1
+main.c:164:6:vTask_Desloca_Snake_Player	25
+main.c:276:6:vTask_Menu_Principal	9
+main.c:327:5:main	1
+main.c:412:6:SystemClock_Config	4
+main.c:458:13:MX_ADC1_Init	4
+main.c:509:13:MX_DMA_Init	1
+main.c:527:13:MX_GPIO_Init	1
+main.c:578:6:StartDefaultTask	1
+main.c:597:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:614:6:Error_Handler	1
